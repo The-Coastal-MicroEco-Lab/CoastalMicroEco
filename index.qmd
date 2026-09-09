@@ -36,7 +36,7 @@ A longstanding objective in microbial ecology is to link spatial and temporal di
 :::
 
 :::: announcements-panel
-## News and Annoucements
+## News and Announcements
 
 ::: {#announcements}
 :::

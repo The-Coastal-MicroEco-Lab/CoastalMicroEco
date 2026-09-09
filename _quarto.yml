@@ -29,12 +29,14 @@ website:
       - text: "Publications"
         href: publications/index.qmd
     right:
+      - text: "Lab Handbook"
+        href: lab_handbook.qmd
       - text: "Links & Resources"
         href: links_resources.qmd
       - icon: github
         href: https://github.com/coastal-microeco-lab/coastal-microeco-lab.github.io
   page-footer:
-    center: "Copyright &copy; 2026, Coastal MicroEco Lab; Inspired by Nick Lyon"
+    center: "Copyright &copy; 2026, Coastal MicroEco Lab; Design inspired by (Nick Lyon)[https://njlyon0.github.io/]"
     background: secondary
 
 format:

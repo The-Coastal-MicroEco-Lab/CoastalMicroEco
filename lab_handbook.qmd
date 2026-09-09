@@ -1,0 +1,14 @@
+---
+title: "Lab Handbook"
+page-layout: full
+---
+
+***Current lab members:** Looking for the live version of the handbook? Find it [here](https://universitysystemnh.sharepoint.com/:w:/r/teams/MicroEcoLabatUNH2/Shared%20Documents/General/Lab_Online/Lab_Website/Lab_Manual_Draft_v1%20-%20Embedding%20Test.docx?d=wf82d2ec0aa844e9dbaa85bd7387834e5&csf=1&web=1&e=QLke5q)*
+
+::: pdf-embed
+<iframe src="files/Lab_Handbook.pdf" title="Coastal MicroEco Lab Handbook">
+
+</iframe>
+:::
+
+[Open the handbook in a new tab](files/Lab_Handbook.pdf){target="_blank"}
