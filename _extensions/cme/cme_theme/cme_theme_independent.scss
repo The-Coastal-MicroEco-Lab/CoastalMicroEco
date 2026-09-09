@@ -1,4 +1,27 @@
-/* People listing cards */
+/* =========================
+   People listing cards
+   ========================= */
+
+/* Keep each card within its Quarto grid column */
+#current-members .quarto-grid-item,
+#alumni .quarto-grid-item {
+  min-width: 0;
+  width: 100%;
+  max-width: 100%;
+}
+
+#current-members .card,
+#alumni .card {
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+  overflow: hidden;
+}
+
+
+/* -------------------------
+   Card text
+   ------------------------- */
 
 /* Normal card text */
 #current-members .card-body,
@@ -16,7 +39,7 @@
   word-break: keep-all;
 }
 
-/* Values: wrap */
+/* Values: wrap normally */
 #current-members .card-body td,
 #current-members .card-body dd,
 #alumni .card-body td,
@@ -27,11 +50,12 @@
   word-break: normal;
 }
 
-/* Main interests: wrap, then truncate */
+/* Interests: wrap naturally, then truncate after 4 lines */
 #current-members .listing-interests,
 #alumni .listing-interests {
   white-space: normal;
   overflow-wrap: break-word;
+  word-break: normal;
   hyphens: none;
 
   display: -webkit-box;
@@ -40,20 +64,53 @@
   overflow: hidden;
 }
 
-// card photos
-#current-members .card-img-top,
-#current-members .thumbnail-image,
-#alumni .card-img-top,
-#alumni .thumbnail-image {
-  display: block;
-  width: 100%;
-  max-width: 100%;
-  aspect-ratio: 6/3;
-  object-fit: cover;
-  object-position: center;
+
+/* -------------------------
+   Card photos
+   ------------------------- */
+
+/*
+   Force Quarto's image container to occupy the full card width.
+*/
+#current-members .thumbnail,
+#current-members .listing-image,
+#alumni .thumbnail,
+#alumni .listing-image {
+  display: block !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  flex: 0 0 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
-// Profile pictures
+/*
+   Make either the actual image OR Quarto's card-img-top
+   element fill that container.
+*/
+#current-members img.card-img-top,
+#current-members .card-img-top img,
+#current-members .thumbnail-image,
+#alumni img.card-img-top,
+#alumni .card-img-top img,
+#alumni .thumbnail-image {
+  display: block !important;
+
+  width: 100% !important;
+  max-width: 100% !important;
+
+  height: auto !important;
+  aspect-ratio: auto !important;
+
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+
+/* =========================
+   In-depth profile pictures
+   ========================= */
+
 .profile-photo-wrapper {
   margin: 0 0 1.5rem 0;
 }
@@ -62,8 +119,29 @@
   display: block;
   width: 260px;
   max-width: 100%;
+
   aspect-ratio: 1 / 1;
   object-fit: cover;
+
   border-radius: 12px;
 }
 
+
+/* =========================
+   Embedded PDFs
+   ========================= */
+
+.pdf-embed {
+  width: 100%;
+  margin: 0 auto 1rem auto;
+}
+
+.pdf-embed iframe {
+  display: block;
+  width: 100%;
+  height: 85vh;
+  min-height: 700px;
+
+  border: 1px solid rgba(128, 128, 128, 0.25);
+  border-radius: 6px;
+}
