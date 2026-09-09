@@ -1,0 +1,10 @@
+---
+title: "Welcome to the Coastal MicroEco Lab"
+date: 2026-09-08
+description: "We have a new website!"
+image: false
+categories:
+  - lab news
+---
+
+We've just launched our new website!

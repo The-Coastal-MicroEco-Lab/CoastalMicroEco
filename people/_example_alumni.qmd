@@ -1,0 +1,52 @@
+---
+title: "Full Name"
+
+status: "alumni" 
+role: "Role in Lab"
+role-type: "graduate"
+
+current-position: "President of the world" # if alumni, fill with current position.
+image: "images/full-name.jpg"
+
+description: >
+  One or two sentences describing their research for the People page.
+
+bio: >
+  A longer professional biography. This can include educational
+  background, prior research, what brought them to the lab, and
+  broader scientific interests.
+
+interests:
+  - Interest one
+  - Interest two
+  - Interest three
+
+links:
+  - text: "Google Scholar"
+    href: "https://..."
+
+  - text: "GitHub"
+    href: "https://..."
+
+  - text: "ORCID"
+    href: "https://..."
+
+publication-names:
+  - "Last, First"
+
+order: 20
+---
+
+### {{< meta role >}}
+
+## Bio
+
+{{< meta bio >}}
+
+## Research
+
+{{< meta interests >}}
+
+## Links
+
+{{< meta links >}}

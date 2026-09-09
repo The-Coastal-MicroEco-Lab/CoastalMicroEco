@@ -1,0 +1,6 @@
+title: Profile Meta
+version: 1.0.0
+
+contributes:
+  shortcodes:
+    - profile-meta.lua

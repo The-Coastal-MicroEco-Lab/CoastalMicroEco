@@ -1,0 +1,131 @@
+/*-- scss:defaults --*/
+
+@import "cme_theme_independent";
+
+// Coastal MicroEco Lab palette
+// Core colors sampled from the lab logo; darker UI neutrals are derived from them.
+$midnight:      #062644; // darkest ocean blue
+$deep-ocean:    #123F67; // mountain / deep water blue
+$tidepool-blue: #33699A; // mid ocean blue
+$ocean-blue:    #2B7BA8; // brighter water blue
+$sky-water:     #6AAFD8; // light blue
+$seafoam:       #64C5C5; // DNA / stream aqua
+$estuary-teal:  #299390; // teal
+$marsh-green:   #3A9078; // marsh green
+$deep-marsh:    #04523B; // dark marsh green
+$mist:          #E0FFFF; // pale cyan from logo background
+
+// Dark interface neutrals derived from the logo palette
+$deep-slate:    #0E3657;
+$slate:         #244B5E;
+$soft-mist:     #C9E5E5;
+
+// Fonts
+$font-size: 25px;
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+// Base document colors
+$navbar-bg: $deep-ocean;       // navbar
+$navbar-fg: $mist;             // navbar foreground elements
+$navbar-hl: $seafoam;          // active / hover accent
+$body-bg: $midnight;           // page background
+$body-color: $mist;            // page text
+$footer-bg: $deep-marsh;       // footer
+$footer-fg: $mist;             // footer text
+$link-color: $sky-water;       // hyperlinks
+
+// Inline code
+$code-bg: $deep-ocean;         // inline code background color
+$code-color: $mist;            // inline code text color
+
+// Code blocks
+$code-block-bg: $deep-slate;   // code block background color
+
+/*-- scss:rules --*/
+
+// Code chunk output
+pre code:not(.sourceCode) {
+  background-color: $tidepool-blue;
+  color: $mist;
+}
+
+// Active tabset panel (tab then tab content)
+.nav-tabs .nav-link.active {
+  background-color: $deep-ocean;
+  color: $mist;
+}
+.tab-content {
+  background-color: $deep-ocean;
+}
+
+// Navbar dropdown elements
+.dropdown-menu {
+  --bs-dropdown-link-hover-color: #062644;
+  --bs-dropdown-link-hover-bg: #64C5C5;
+}
+
+// Homepage announcements panel
+.announcements-panel {
+  margin: 2rem 0;
+  padding: 1.25rem 1.4rem 1.35rem;
+  background-color: $deep-slate;
+  border: 1px solid $tidepool-blue;
+  border-left: 6px solid $seafoam;
+  border-radius: 0.8rem;
+}
+
+.announcements-panel > h2 {
+  margin-top: 0;
+  margin-bottom: 0.85rem;
+  color: $seafoam;
+}
+
+.announcements-panel #announcements .quarto-listing {
+  margin-top: 0;
+}
+
+.announcements-panel #announcements .quarto-post {
+  margin-bottom: 0.75rem;
+  padding: 0.9rem 1rem;
+  background-color: $deep-ocean;
+  border: 1px solid $tidepool-blue;
+  border-radius: 0.6rem;
+}
+
+.announcements-panel #announcements .quarto-post:last-child {
+  margin-bottom: 0;
+}
+
+.announcements-panel #announcements .listing-title {
+  color: $sky-water;
+  font-weight: 600;
+}
+
+.announcements-panel #announcements a:hover .listing-title {
+  color: $seafoam;
+}
+
+.announcements-panel #announcements .listing-date,
+.announcements-panel #announcements .metadata {
+  color: $soft-mist;
+}
+
+.announcements-panel #announcements .listing-description {
+  color: $mist;
+}
+
+.announcements-panel .announcement-more {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.35rem 0.75rem;
+  color: $midnight;
+  background-color: $seafoam;
+  border-radius: 999px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.announcements-panel .announcement-more:hover {
+  color: $mist;
+  background-color: $tidepool-blue;
+}

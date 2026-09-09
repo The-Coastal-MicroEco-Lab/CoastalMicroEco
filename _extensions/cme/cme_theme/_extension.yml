@@ -1,0 +1,10 @@
+title: Coastal Micro Eco Quarto Stylesheet
+author: Hannah Holland-Moritz
+version: 1.0.0
+quarto-required: ">=1.2.0"
+contributes:
+  formats:
+    revealjs:
+      theme:
+        - cme_light.scss
+        - cme_dark.scss

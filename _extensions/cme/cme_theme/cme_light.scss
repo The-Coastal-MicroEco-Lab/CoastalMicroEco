@@ -1,0 +1,132 @@
+/*-- scss:defaults --*/
+@import "cme_theme_independent";
+
+// Coastal MicroEco Lab palette
+// Core colors sampled from the lab logo; pale UI neutrals are derived from them.
+$midnight:      #062644; // darkest ocean blue
+$deep-ocean:    #123F67; // mountain / deep water blue
+$tidepool-blue: #33699A; // mid ocean blue
+$ocean-blue:    #2B7BA8; // brighter water blue
+$sky-water:     #6AAFD8; // light blue
+$seafoam:       #64C5C5; // DNA / stream aqua
+$estuary-teal:  #299390; // teal
+$marsh-green:   #3A9078; // marsh green
+$deep-marsh:    #04523B; // dark marsh green
+$mist:          #E0FFFF; // pale cyan from logo background
+
+// Softer interface neutrals derived from the logo palette
+$paper:         #F5FCFC;
+$fog:           #D7E8E7;
+$mist-blue:     #C5EAEA;
+$slate:         #6F8988;
+$charcoal:      #213837;
+
+// Fonts
+$font-size: 25px;
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+// Base document colors
+$navbar-bg: $seafoam;       // navbar
+$navbar-fg: $mist;             // navbar foreground elements
+$navbar-hl: $deep-ocean;          // active / hover accent
+$body-bg: $paper;              // page background
+$body-color: $midnight;        // page text
+$footer-bg: $tidepool-blue;    // footer
+$footer-fg: $mist;             // footer text
+$link-color: $tidepool-blue;   // hyperlinks
+
+// Inline code
+$code-bg: $fog;                // inline code background color
+$code-color: $deep-marsh;      // inline code text color
+
+// Code blocks
+$code-block-bg: #EAF5F4;       // code block background color
+
+/*-- scss:rules --*/
+
+// Code chunk output
+pre code:not(.sourceCode) {
+  background-color: $mist-blue;
+  color: $midnight;
+}
+
+// Active tabset panel (tab then tab content)
+.nav-tabs .nav-link.active {
+  background-color: #FFFFFF;
+  color: $midnight;
+}
+.tab-content {
+  background-color: #FFFFFF;
+}
+
+// Navbar dropdown elements
+.dropdown-menu {
+  --bs-dropdown-link-hover-color: #062644;
+  --bs-dropdown-link-hover-bg: #64C5C5;
+}
+
+// Homepage announcements panel
+.announcements-panel {
+  margin: 2rem 0;
+  padding: 1.25rem 1.4rem 1.35rem;
+  background-color: #E8F7F6;
+  border: 1px solid $mist-blue;
+  border-left: 6px solid $estuary-teal;
+  border-radius: 0.8rem;
+}
+
+.announcements-panel > h2 {
+  margin-top: 0;
+  margin-bottom: 0.85rem;
+  color: $deep-ocean;
+}
+
+.announcements-panel #announcements .quarto-listing {
+  margin-top: 0;
+}
+
+.announcements-panel #announcements .quarto-post {
+  margin-bottom: 0.75rem;
+  padding: 0.9rem 1rem;
+  background-color: #FFFFFF;
+  border: 1px solid $mist-blue;
+  border-radius: 0.6rem;
+}
+
+.announcements-panel #announcements .quarto-post:last-child {
+  margin-bottom: 0;
+}
+
+.announcements-panel #announcements .listing-title {
+  color: $deep-ocean;
+  font-weight: 600;
+}
+
+.announcements-panel #announcements a:hover .listing-title {
+  color: $estuary-teal;
+}
+
+.announcements-panel #announcements .listing-date,
+.announcements-panel #announcements .metadata {
+  color: $slate;
+}
+
+.announcements-panel #announcements .listing-description {
+  color: $charcoal;
+}
+
+.announcements-panel .announcement-more {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.35rem 0.75rem;
+  color: #FFFFFF;
+  background-color: $tidepool-blue;
+  border-radius: 999px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.announcements-panel .announcement-more:hover {
+  color: $midnight;
+  background-color: $seafoam;
+}

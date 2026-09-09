@@ -1,0 +1,14 @@
+---
+title: "Coastal Microbial Ecology"
+description: "Understanding microbial communities across coastal ecosystems and their roles in biogeochemical cycling."
+image: "../images/Logo_coastal_micro_eco_lab.png"
+order: 1
+---
+
+## Overview
+
+Text describing the project goes here.
+
+## Questions
+
+We are interested in...

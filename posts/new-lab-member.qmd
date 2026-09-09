@@ -1,0 +1,7 @@
+---
+date: 2026-09-08
+description: "Welcome to our newest lab member!"
+featured: true
+---
+
+Our newest masters student just started. They will be working on xxx. 

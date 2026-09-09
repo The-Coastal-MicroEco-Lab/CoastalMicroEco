@@ -1,0 +1,45 @@
+---
+about:
+  id: header
+  template: trestles
+  image: images/Logo_coastal_micro_eco_lab.png
+  image-width: 10cm
+  image-shape: round
+  links:
+    - href: https://github.com/coastal-microeco-lab
+      text: GitHub
+      icon: github
+    - href: mailto:ashley.bulseco.unh.edu
+      text: Email
+      icon: envelope-fill
+listing:
+  id: announcements
+  contents: "posts/*.qmd"
+  type: default
+  sort: "date desc"
+  max-items: 3
+  include:
+    featured: true
+  fields: [date, title, description]
+  sort-ui: false
+  filter-ui: false
+---
+
+::: {#header}
+## Welcome!
+
+*Thanks for visiting this webpage, it's still under construction, if you want to know more about the lab, please reach out to [Ashley Bulseco](https://colsa.unh.edu/person/ashley-bulseco) directly.*
+
+A longstanding objective in microbial ecology is to link spatial and temporal distributions of microorganisms to ecosystem function and global biogeochemical cycling. As a microbial and ecosystem ecologist, I apply a combination of controlled laboratory experiments and field-based studies that employ next-generation sequencing, bioinformatics, and biogeochemical rate measurements, ultimately aiming to connect biological mechanisms to ecosystem scale processes using a microbial lens. Primary research goals including understanding changes to microbial diversity, structure, and function of coastal ecosystems in response to human activities, and in turn, using microbiome-informed data as an indication of overall ecosystem health. My research program is designed for extensive intellectual contribution and involvement from both undergraduate and graduate students. If you are interested in joining the lab, please reach out!
+
+[Learn about our research](research/index.qmd)
+:::
+
+:::: announcements-panel
+## News and Annoucements
+
+::: {#announcements}
+:::
+
+[View all news](posts/index.qmd)
+::::

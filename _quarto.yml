@@ -1,0 +1,49 @@
+project:
+  type: website
+  pre-render:
+    - python scripts/generate_publications.py
+  execute-dir: project
+  output-dir: docs
+  render:
+    - "*.qmd"
+
+execute:
+  freeze: auto
+
+website:
+  title: "Coastal MicroEco Lab"
+  favicon: images/Logo_coastal_micro_eco_lab.png
+  repo-url: https://github.com/coastal-microeco-lab/coastal-microeco-lab.github.io
+  repo-actions: [issue]
+  navbar:
+    background: primary
+    left:
+      - text: "Meet The Lab"
+        href: people/index.qmd
+      - text: "Research"
+        href: research/index.qmd
+      - text: "Posts & Blogs"
+        href: posts/index.qmd
+      - text: "Teaching"
+        href: teaching/index.qmd
+      - text: "Publications"
+        href: publications/index.qmd
+    right:
+      - text: "Links & Resources"
+        href: links_resources.qmd
+      - icon: github
+        href: https://github.com/coastal-microeco-lab/coastal-microeco-lab.github.io
+  page-footer:
+    center: "Copyright &copy; 2026, Coastal MicroEco Lab; Inspired by Nick Lyon"
+    background: secondary
+
+format:
+  html:
+    theme:
+      light: _extensions/cme/cme_theme/cme_light.scss
+      dark: _extensions/cme/cme_theme/cme_dark.scss
+    mainfont: Open Sans
+    toc: true
+    link-external-newwindow: true
+    link-external-icon: false
+    code-annotations: hover

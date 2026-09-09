@@ -1,0 +1,69 @@
+/* People listing cards */
+
+/* Normal card text */
+#current-members .card-body,
+#alumni .card-body {
+  min-width: 0;
+}
+
+/* Labels: never wrap */
+#current-members .card-body th,
+#current-members .card-body dt,
+#alumni .card-body th,
+#alumni .card-body dt {
+  white-space: nowrap !important;
+  overflow-wrap: normal;
+  word-break: keep-all;
+}
+
+/* Values: wrap */
+#current-members .card-body td,
+#current-members .card-body dd,
+#alumni .card-body td,
+#alumni .card-body dd {
+  min-width: 0;
+  white-space: normal;
+  overflow-wrap: break-word;
+  word-break: normal;
+}
+
+/* Main interests: wrap, then truncate */
+#current-members .listing-interests,
+#alumni .listing-interests {
+  white-space: normal;
+  overflow-wrap: break-word;
+  hyphens: none;
+
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4;
+  overflow: hidden;
+}
+
+// card photos
+#current-members .card-img-top,
+#current-members .thumbnail-image,
+#alumni .card-img-top,
+#alumni .thumbnail-image {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  aspect-ratio: 6/3;
+  object-fit: cover;
+  object-position: center;
+}
+
+// Profile pictures
+.profile-photo-wrapper {
+  margin: 0 0 1.5rem 0;
+}
+
+.profile-photo {
+  display: block;
+  width: 260px;
+  max-width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 12px;
+}
+

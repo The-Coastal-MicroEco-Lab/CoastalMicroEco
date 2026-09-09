@@ -1,0 +1,46 @@
+---
+title: "Hannah Holland-Moritz"
+status: "current"
+role: "Bioinformatician"
+role-type: "staff"
+
+image: "../images/Logo_coastal_micro_eco_lab.png"
+
+bio: >
+   
+
+Northeastern University, Boston, MA: B.S. Environmental and Sustainability Sciences, concentration in Earth, Oceans, and Environmental Change 
+
+interests:
+  - Microbial ecology
+  - Microbial traits
+  - Biogeochemistry
+  - Mentorship in science
+  - Bioinformatics
+
+links:
+  - text: "Google Scholar"
+    href: "https://scholar.google.com/citations?user=zETn5qAAAAAJ&hl=en"
+  - text: "Website"
+    href: "https://hhollandmoritz.github.io/"
+
+publication-names:
+  - "Holland-Moritz, H"
+  - "Holland-Moritz, H.E."
+
+order: 20
+---
+
+### {{< meta role >}}
+
+## Bio
+
+{{< meta bio >}}
+
+## Interests
+
+{{< profile-interests >}}
+
+## Links
+
+{{< profile-links >}}

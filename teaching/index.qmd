@@ -1,0 +1,11 @@
+---
+title: "Teaching"
+
+listing:
+  contents: "*.qmd"
+  type: grid
+  sort: "order asc"
+  fields: [image, title, description]
+  sort-ui: false
+  filter-ui: false
+---

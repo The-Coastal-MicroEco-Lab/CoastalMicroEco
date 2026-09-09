@@ -1,0 +1,45 @@
+---
+title: "Ashley Bulseco"
+status: "current"
+role: "Principal Investigator"
+image: "../images/profiles/Bulseco_Headshot.jpeg"
+description: ""
+
+bio: >
+  Ashley’s research focuses on understanding the microbial response to human-driven disturbances in wetland, estuarine, and marine ecosystems. She is particularly interested in whether shifts in the microbial community translate to changes in ecosystem function, especially in relation to carbon and nitrogen cycling. Ashley’s work often takes a multi-faceted approach to address these questions, applying a range of interdisciplinary techniques that combine field work, controlled laboratory experiments, biogeochemical measurements, sequencing, and bioinformatics. Prior to coming to UNH, she taught Environmental Science and Oceanography at the high school level and will continue to explore her passion for innovative and inclusive pedagogical practices in STEM.
+
+interests:
+  - Coastal microbial ecology 
+  - Biogeochemistry 
+
+links:
+  - text: "Google Scholar"
+    href: "https://..."
+
+  - text: "GitHub"
+    href: "https://..."
+
+  - text: "ORCID"
+    href: "https://..."
+
+publication-names:
+  - "Bulseco, A."
+  - "Bulseco, Ashley"
+
+order: 1
+---
+{{< profile-photo >}}
+
+### {{< meta role >}}
+
+## Bio
+
+{{< meta bio >}}
+
+## Interests
+
+{{< profile-interests >}}
+
+## Links
+
+{{< profile-links >}}

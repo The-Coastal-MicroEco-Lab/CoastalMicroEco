@@ -1,0 +1,43 @@
+---
+title: "Camille Kroot"
+status: "current"
+role: "Master's Student"
+role-type: "graduate"
+
+image: "../images/profiles/Kroot_Headshot.jpg"
+
+bio: >
+  Camille is a master's student at the University of New Hampshire. Her thesis project investigates microbial community composition and nitrogen cycling in restored New Hampshire salt marshes, particularly if there are noticeable shifts in community and ecosystem function when comparing restored marshes to degraded and healthy marshes. She has participated and led a variety of field work, incubations, and lab work to gain a deeper understanding of microbial communities in changing environments, and their implications. In the future, Camille hopes to pursue a career that combines research and collaboration with the public to connect people to science. 
+
+Northeastern University, Boston, MA: B.S. Environmental and Sustainability Sciences, concentration in Earth, Oceans, and Environmental Change 
+
+interests:
+  - Microbial ecology
+  - Coastal ecosystems
+  - Biogeochemistry
+  - Science communication
+
+links:
+  - text: "Google Scholar"
+    href: "https://..."
+
+publication-names:
+  - "Kroot, C"
+  - "Kroot, Camille"
+
+order: 20
+---
+
+### {{< meta role >}}
+
+## Bio
+
+{{< meta bio >}}
+
+## Interests
+
+{{< profile-interests >}}
+
+## Links
+
+{{< profile-links >}}

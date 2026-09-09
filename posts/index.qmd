@@ -1,0 +1,12 @@
+---
+title: "Posts and Blogs"
+
+listing:
+  contents: "*.qmd"
+  type: default
+  sort: "date desc"
+  fields: [image, date, title, description]
+  sort-ui: false
+  filter-ui: false
+  page-size: 10
+---
