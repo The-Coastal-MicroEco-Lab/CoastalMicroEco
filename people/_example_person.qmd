@@ -7,10 +7,7 @@ role: "Role in Lab"
 role-type: "graduate"
 
 current-position: "" # if alumni, fill with current position.
-image: "images/full-name.jpg"
-
-description: >
-  One or two sentences describing their research for the People page.
+image: "images/Logo_coastal_micro_eco_lab.png"
 
 bio: >
   A longer professional biography. This can include educational
