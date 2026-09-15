@@ -1,5 +1,5 @@
 ---
-title: "Full Name"
+title: "Marley Gonsalves"
 
 status: "current" # alternative = "alumni"
 
@@ -32,7 +32,7 @@ interests:
 
 links:
   - text: "Instagram"
-  - href: "https://www.instagram.com/mgg_plankton"
+    href: "https://www.instagram.com/mgg_plankton"
 
 publication-names:
   - "Last, First"
