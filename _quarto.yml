@@ -50,4 +50,4 @@ format:
     link-external-icon: false
     code-annotations: hover
     include-after-body:
-      - ../_extensions/analytics/goatcounter.html
+      - _extensions/analytics/goatcounter.html
