@@ -25,6 +25,8 @@ links:
 publication-names:
   - "Bulseco, A."
   - "Bulseco, Ashley"
+  - "Ashley Bulseco-McKim"
+  - "Ashley N Bulseco-McKim"
 
 order: 1
 ---
