@@ -1,0 +1,36 @@
+---
+title: "Seren Davies"
+
+status: "alumni" 
+role: "Research Assistant"
+role-type: "undergraduate"
+
+current-position: "Hamel Center Student Ambassador" # if alumni, fill with current position.
+image: "images/full-name.jpg"
+
+bio: >
+  Seren Davies is a sophomore genetics major at the University of New Hampshire. Originally from Bristol, Rhode Island, she has worked with Dr. Ashley Bulseco’s MicroEco lab for over a year. During this time, she has pursued research regarding the microbial communities within salt marshes and the ways these are altered by the changing environment. In addition, she serves as a student ambassador for the Hamel Center for Undergraduate Research, an executive member for UNH’s Alpha Phi Omega, an employee of the Audubon Society of Rhode Island, and a member of the UNH Honors College. 
+
+interests:
+
+links:
+
+publication-names:
+  - "Last, First"
+
+order: 20
+---
+
+### {{< meta role >}}
+
+## Bio
+
+{{< meta bio >}}
+
+## Research
+
+{{< meta interests >}}
+
+## Links
+
+{{< meta links >}}
