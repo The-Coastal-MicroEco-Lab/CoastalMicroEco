@@ -1,0 +1,275 @@
+[
+  {
+    "objectID": "teaching/intro_biology.html",
+    "href": "teaching/intro_biology.html",
+    "title": "Introduction to Biology",
+    "section": "",
+    "text": "Link to the syllabus"
+  },
+  {
+    "objectID": "teaching/intro_biology.html#overview",
+    "href": "teaching/intro_biology.html#overview",
+    "title": "Introduction to Biology",
+    "section": "",
+    "text": "Link to the syllabus"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "Coastal Microbial Ecology\n\n\nUnderstanding microbial communities across coastal ecosystems and their roles in biogeochemical cycling.\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Olivia Ahern, Ashley Bulseco, Amy Smith, JL Weissman, Joseph J Vallino, and Julie A Huber. (2026). Aquatic bacterial metabolic rates from RNA quantitative stable isotope probing (RNA-qSIP) depend on experimental design. bioRxiv, 2026–07.\nAstrid Zapata De Jesus, Alexis Ruiz Agosto, Adriana N Arce Soto, Ashley Bulseco, and Kai Ziervogel. (2026). Coastal Sedimented Microplastics are Hotspots for Microbial Elemental Cycling. In American Geophysical Union, Ocean Sciences Meeting, pp. HC42B–04.\nAshley N. Bulseco, Wenzhuo Yang, Julie A. Huber, and Joseph J. Vallino. (2026). Growth characteristics of natural microbial populations are skewed toward bacteria with low specific growth rates. Microbiology Spectrum, 14(9), e02193-26. DOI HTML\n\n\nAbstract\n\nABSTRACT Microbes are often functionally characterized by traits that specify their optimum environmental conditions for growth, such as temperature or pH, as well as upper and lower bounds where growth is possible. While any given microbe will have a narrow environmental window where growth can occur, a diverse community can span a much larger range of conditions where growth is possible by at least some members of the community. One important trait of microbes is maximum specific growth rate, as this trait determines if a microbe can persist in environments with short residence times. In this study, we conducted a chemostat experiment with natural microbial communities and manipulated dilution rate to test how it would act as a selective force controlling community dynamics and microbial diversity. Using both the experimental chemostats, as well as trait-based modeling, we examined how the composition of a microbial community collected from a coastal meromictic pond changed as dilution rate increased from 0.1 to 10 day−1. We compared experimental results from 16S rRNA gene amplicon sequences to the output from two different simulations of the trait-based model, one in which maximum specific growth rate was initially evenly distributed across the community, and another where maximum specific growth rate traits were pulled from a beta probability distribution that was skewed toward low specific growth rates. Experimental results matched the simulation where the initial natural population was dominated by slow-growing microbes, highlighting the importance of initial trait distributions in modeling community response to environmental changes.IMPORTANCE All living organisms are constrained by environmental boundaries that govern where growth is possible, such as minimum and maximum temperatures or pH. An organism’s maximum specific growth rate places a lower bound on the residence or turnover time where an organism can persist without being removed from the system. While there are laboratory constraints on the maximum specific growth rate of culturable microorganisms, such as Escherichia or Vibrio species, information is lacking on how the maximum specific growth rate trait is distributed in natural microbial communities. This information is critical for understanding how a community will respond to changes in residence time or other environmental perturbations. Using chemostats and trait-based modeling, this study assessed how maximum specific growth rate is distributed in a natural community collected from a coastal, salinity-stratified pond.\n\nGregg E Moore, Jennifer L Gibson, David M Burdick, Alondra Ortiz-Franco, and Ashley N Bulseco. (2026). Recovery of a New England salt marsh six years after a natural sediment deposition event. PloS one, 21(9), e0357442.\nSophie Comer-Warner, Wil Wolheim, and Ashley Bulseco. (2026). Unravelling drivers of stream microbial-biogeochemical cycling along a land-use gradient: Effects of organic matter quality and chemodiversity on greenhouse gas fluxes. Copernicus Meetings."
+  },
+  {
+    "objectID": "publications/index.html#section",
+    "href": "publications/index.html#section",
+    "title": "Publications",
+    "section": "",
+    "text": "Olivia Ahern, Ashley Bulseco, Amy Smith, JL Weissman, Joseph J Vallino, and Julie A Huber. (2026). Aquatic bacterial metabolic rates from RNA quantitative stable isotope probing (RNA-qSIP) depend on experimental design. bioRxiv, 2026–07.\nAstrid Zapata De Jesus, Alexis Ruiz Agosto, Adriana N Arce Soto, Ashley Bulseco, and Kai Ziervogel. (2026). Coastal Sedimented Microplastics are Hotspots for Microbial Elemental Cycling. In American Geophysical Union, Ocean Sciences Meeting, pp. HC42B–04.\nAshley N. Bulseco, Wenzhuo Yang, Julie A. Huber, and Joseph J. Vallino. (2026). Growth characteristics of natural microbial populations are skewed toward bacteria with low specific growth rates. Microbiology Spectrum, 14(9), e02193-26. DOI HTML\n\n\nAbstract\n\nABSTRACT Microbes are often functionally characterized by traits that specify their optimum environmental conditions for growth, such as temperature or pH, as well as upper and lower bounds where growth is possible. While any given microbe will have a narrow environmental window where growth can occur, a diverse community can span a much larger range of conditions where growth is possible by at least some members of the community. One important trait of microbes is maximum specific growth rate, as this trait determines if a microbe can persist in environments with short residence times. In this study, we conducted a chemostat experiment with natural microbial communities and manipulated dilution rate to test how it would act as a selective force controlling community dynamics and microbial diversity. Using both the experimental chemostats, as well as trait-based modeling, we examined how the composition of a microbial community collected from a coastal meromictic pond changed as dilution rate increased from 0.1 to 10 day−1. We compared experimental results from 16S rRNA gene amplicon sequences to the output from two different simulations of the trait-based model, one in which maximum specific growth rate was initially evenly distributed across the community, and another where maximum specific growth rate traits were pulled from a beta probability distribution that was skewed toward low specific growth rates. Experimental results matched the simulation where the initial natural population was dominated by slow-growing microbes, highlighting the importance of initial trait distributions in modeling community response to environmental changes.IMPORTANCE All living organisms are constrained by environmental boundaries that govern where growth is possible, such as minimum and maximum temperatures or pH. An organism’s maximum specific growth rate places a lower bound on the residence or turnover time where an organism can persist without being removed from the system. While there are laboratory constraints on the maximum specific growth rate of culturable microorganisms, such as Escherichia or Vibrio species, information is lacking on how the maximum specific growth rate trait is distributed in natural microbial communities. This information is critical for understanding how a community will respond to changes in residence time or other environmental perturbations. Using chemostats and trait-based modeling, this study assessed how maximum specific growth rate is distributed in a natural community collected from a coastal, salinity-stratified pond.\n\nGregg E Moore, Jennifer L Gibson, David M Burdick, Alondra Ortiz-Franco, and Ashley N Bulseco. (2026). Recovery of a New England salt marsh six years after a natural sediment deposition event. PloS one, 21(9), e0357442.\nSophie Comer-Warner, Wil Wolheim, and Ashley Bulseco. (2026). Unravelling drivers of stream microbial-biogeochemical cycling along a land-use gradient: Effects of organic matter quality and chemodiversity on greenhouse gas fluxes. Copernicus Meetings."
+  },
+  {
+    "objectID": "publications/index.html#section-1",
+    "href": "publications/index.html#section-1",
+    "title": "Publications",
+    "section": "2025",
+    "text": "2025\n\nSophie Comer-Warner, Wilfred Wollheim, and Ashley Bulseco. (2025). Drivers of stream-microbial cycling and greenhouse gas dynamics across a land-use gradient. Copernicus Meetings.\nJennifer L Bowen, Saad Abd Ar Rafie, Ashley Bulseco, and Joseph H Vineis. (2025). How do organic matter properties shape microbial traits in deep salt marsh sediments?. In AGU Fall Meeting Abstracts, pp. B51D–02.\nJoseph H Vineis, Ashley N Bulseco, Zoe G Cardon, and Jennifer L Bowen. (2025). Microbial consortia in salt marsh sediments are sequentially buried over millennia and genomic complementarity analysis indicates an important role in complex carbon decomposition. bioRxiv, 2025–07."
+  },
+  {
+    "objectID": "publications/index.html#section-2",
+    "href": "publications/index.html#section-2",
+    "title": "Publications",
+    "section": "2024",
+    "text": "2024\n\nJoseph John Vallino, Ashley N Bulseco, Wenzhou Yang, Julie A Huber, and Olivia Ahern. (2024). Characterizing Bacterial Specific Growth Rates Using Experimental Microcosms and Trait-Based Modeling. In American Geophysical Union, Ocean Sciences Meeting, pp. OB11A–02.\nAshley N Bulseco, Wenzhou Yang, Julie A Huber, and Joseph J Vallino. (2024). Growth characteristics of natural microbial populations are skewed towards bacteria with low specific growth rates. bioRxiv, 2024–04.\nAshley N Bulseco, Anna E Murphy, Anne E Giblin, Jane Tucker, Jonathan Sanderman, and Jennifer L Bowen. (2024). Marsh sediments chronically exposed to nitrogen enrichment contain degraded organic matter that is less vulnerable to decomposition via nitrate reduction. Science of the Total Environment, 915, 169681.\nAstrid Joan Zapata De Jesus, Alexis Ruiz Agosto, Adriana N Arce Soto, Ashley Bulseco, and Kai Ziervogel. (2024). Microbial Interactions with Microplastics in the Coastal Ocean: Insights on Community Structure and Function from Flowthrough Experiments. In AGU Fall Meeting Abstracts, pp. H34G–08.\nSophie Comer-Warner, Wilfred M Wollheim, and Ashley Bulseco. (2024). Unraveling drivers of stream microbial-biogeochemical cycling along a land-use gradient: From localized processes to ecosystem-wide effects. In AGU Fall Meeting Abstracts, pp. B43J–03."
+  },
+  {
+    "objectID": "publications/index.html#section-3",
+    "href": "publications/index.html#section-3",
+    "title": "Publications",
+    "section": "2023",
+    "text": "2023\n\nJoseph H Vineis, Ashley N Bulseco, and Jennifer L Bowen. (2023). Microbial chemolithoautotrophs are abundant in salt marsh sediment following long-term experimental nitrate enrichment. FEMS Microbiology Letters, 370, fnad082.\nCarol Kim, Lorie W Staver, Xuan Chen, Ashley Bulseco, Jeffrey C Cornwell, and Sairah Y Malkin. (2023). Microbial community succession along a chronosequence in constructed salt marsh soils. Microbial ecology, 85(3), 931–950."
+  },
+  {
+    "objectID": "publications/index.html#section-4",
+    "href": "publications/index.html#section-4",
+    "title": "Publications",
+    "section": "2022",
+    "text": "2022\n\nRundong Jiang, Xiaotong Ding, Shannon Sung, Ashley Bulseco, and Charles Xie. (2022). Data-driven science vlogging for connected learning anywhere. Connected Science Learning, 4(2), 12318661.\nWei Yuan, Guangdi Liu, Xiaoxing Zhou, and Ashley Bulseco. (2022). Linking hydrothermal activity with organic matter accumulation in the chang 7 black Shale of Yanchang Formation, Ordos Basin, China. Frontiers in Earth Science, 10, 786634.\nSophie Comer-Warner, Sami Ullah, Camille Stagg, Tracy Quirk, Christopher Swarzenski, Ashley Bulseco, and Gail Chmura. (2022). The response of greenhouse gas fluxes and nutrient filtration potential to increases in temperature and nutrient loading from salt marsh soils across a climatic gradient. In EGU General Assembly Conference Abstracts, pp. EGU22–1119."
+  },
+  {
+    "objectID": "publications/index.html#section-5",
+    "href": "publications/index.html#section-5",
+    "title": "Publications",
+    "section": "2021",
+    "text": "2021\n\nWei Yuan, Guangdi Liu, Ashley Bulseco, Liming Xu, and Xiaoxing Zhou. (2021). Controls on U enrichment in organic-rich shales from the Triassic Yanchang Formation, Ordos Basin, Northern China. Journal of Asian Earth Sciences, 212, 104735.\nSophie Comer-Warner, Sami Ullah, Camille Stagg, Tracy Quirk, Christopher Swarzenski, Ashley Bulseco, and Gail Chmura. (2021). How will increases in temperature and nutrient loading impact greenhouse gas fluxes and nitrogen processing in salt marsh soils across a climatic gradient?. In AGU Fall Meeting Abstracts, pp. B21C–06.\nWei Yuan, Guangdi Liu, Ashley Bulseco, and XiaoXing Zhou. (2021). Iron speciation in organic-rich shales from the Upper Triassic Yanchang Formation, Ordos Basin, Northern China: Implications for depositional environment. Journal of Asian Earth Sciences, 220, 104917.\nSairah Malkin, Carol Kim, Staver Lorie, Jeffrey Cornwell, Xuan Chen, and Ashley Bulseco. (2021). Microbial Community Succession Patterns Distinguish Soils on a Trajectory of Successful Salt Marsh Construction from Soils Suffering from Excess Inundation. In AGU Fall Meeting Abstracts, pp. B12E–04.\nJoseph H Vineis, Ashley N Bulseco, and Jennifer L Bowen. (2021). Microbial dark carbon fixation fueled by nitrate enrichment. bioRxiv, 2021–08."
+  },
+  {
+    "objectID": "publications/index.html#section-6",
+    "href": "publications/index.html#section-6",
+    "title": "Publications",
+    "section": "2020",
+    "text": "2020\n\nSarah M Allard, Matthew T Costa, Ashley N Bulseco, Véronique Helfer, Laetitia GE Wilkins, Christiane Hassenrück, Karsten Zengler, Martin Zimmer, Natalia Erazo, Jorge L Mazza Rodrigues, and others. (2020). Introducing the mangrove microbiome initiative: identifying microbial research priorities and approaches to better understand, protect, and rehabilitate mangrove ecosystems. MSystems, 5(5), 10–1128.\nAshley N Bulseco, Joseph H Vineis, Anna E Murphy, Amanda C Spivak, Anne E Giblin, Jane Tucker, and Jennifer L Bowen. (2020). Metagenomics coupled with biogeochemical rates measurements provide evidence that nitrate addition stimulates respiration in salt marsh sediments. Limnology and Oceanography, 65, S321–S339.\nChristopher A Lynum, Ashley N Bulseco, Courtney M Dunphy, Sean M Osborne, Joseph H Vineis, and Jennifer L Bowen. (2020). Microbial community response to a passive salt marsh restoration. Estuaries and Coasts, 43(6), 1439–1455.\nJen Bowen, Ashley N Bulseco, Anna Elizabeth Murphy, and Joseph H Vineis. (2020). Nitrogen controls on carbon accumulation in coastal system: Not all nitrogen is created equal. In American Geophysical Union, Ocean Sciences Meeting, pp. CP52B–02.\nJennifer L Bowen, Anne E Giblin, Anna E Murphy, Ashley N Bulseco, Linda A Deegan, David S Johnson, James A Nelson, Thomas J Mozdzer, and Hillary L Sullivan. (2020). Not all nitrogen is created equal: differential effects of nitrate and ammonium enrichment in coastal wetlands. BioScience, 70(12), 1108–1119.\nAshley N Bulseco. (2020). NSF Postdoctoral Fellowship in Biology FY 2019: Characterizing the Microbial Consortia Capable of Degrading Complex Carbon in Salt Marsh Sediments using RNA-SIP. NSF Award Number 1907285. Directorate for Biological Sciences, 19(1907285), 7285.\nAnna E Murphy, Ashley N Bulseco, Ross Ackerman, Joseph H Vineis, and Jennifer L Bowen. (2020). Sulphide addition favours respiratory ammonification (DNRA) over complete denitrification and alters the active microbial community in salt marsh sediments. Environmental Microbiology, 22(6), 2124–2139.\nDonald C Barber, Camila Silva, Thomas Mozdzer, and Ashley Bulseco. (2020). Variable Carbon Content in Shallow Salt Marsh Soils, Plum Island Estuary, Massachusetts. In Geological Society of America Abstracts, pp. 345359."
+  },
+  {
+    "objectID": "publications/index.html#section-7",
+    "href": "publications/index.html#section-7",
+    "title": "Publications",
+    "section": "2019",
+    "text": "2019\n\nAshley Bulseco-McKim, Anne Giblin, and Jennifer Bowen. (2019). Biogeochemical rate data and sediment properties of samples used for a controlled flow through experiment testing the effect of nitrate on organic matter decomposition, PIE LTER, Plum Island Sound estuary, Massachusetts. Environmental Data Initiative.\nAshley N Bulseco, Anne E Giblin, Jane Tucker, Anna E Murphy, Jonathan Sanderman, Kenly Hiller-Bittrolff, and Jennifer L Bowen. (2019). Nitrate addition stimulates microbial decomposition of organic matter in salt marsh sediments. Global Change Biology, 25(10), 3224–3241.\nPatrick J Kearns, Ashley N Bulseco-McKim, Helen Hoyt, John H Angell, and Jennifer L Bowen. (2019). Nutrient Enrichment Alters Salt Marsh Fungal Communities and Promotes Putative Fungal Denitrifiers: Kearns PJ et al. Microbial Ecology, 77(2), 358–369."
+  },
+  {
+    "objectID": "publications/index.html#section-8",
+    "href": "publications/index.html#section-8",
+    "title": "Publications",
+    "section": "2018",
+    "text": "2018\n\nAshley N Bulseco-McKim, Jonathan Sanderman, and Jennifer L Bowen. (2018). Combining High Resolution Organic Matter Characterization and Analysis of Microbial Community Structure to Assess the Effects of Nutrient Loading on Salt Marsh Carbon Sequestration. In American Geophysical Union, Ocean Sciences Meeting, pp. BN24D–1125.\nKenly Hiller-Bittrolff, Kenneth Foreman, Ashley N Bulseco-McKim, Janina Benoit, and Jennifer L Bowen. (2018). Effects of mercury addition on microbial community composition and nitrate removal inside permeable reactive barriers. Environmental Pollution, 242, 797–806.\nAshley Bulseco-McKim. (2018). Nitrate as an electron acceptor in microbial decomposition of salt marsh sediment organic matter and implications for carbon storage. Northeastern University.\nAnna Elizabeth Murphy, Ashley Bulseco-McKim, Ross Ackerman, and Jennifer L Bowen. (2018). The effect of sulfide on microbial community structure and the competition between nitrate respiration pathways. In American Geophysical Union, Ocean Sciences Meeting, pp. BN33B–08.\nAshley N Bulseco-McKim, Joseph H Vineis, Anna E Murphy, Anne E Giblin, Jonathan Sanderman, Amanda Spivak, and Jennifer L Bowen. (2018). The Role of Nitrate as an Electron Acceptor in Salt Marsh Organic Matter Decomposition. In Twenty-eighth Annual Goldschmidt Conference, pp. 306."
+  },
+  {
+    "objectID": "publications/index.html#section-9",
+    "href": "publications/index.html#section-9",
+    "title": "Publications",
+    "section": "2014",
+    "text": "2014\n\nTam Bang Vu, Eirc Iksoon Im, and Ashley Bulseco-McKim. (2014). What Kind of Education is good For US Productivity? Community Colleges versus Universities. Journal of Empirical Economics, 2(4), 204–215."
+  },
+  {
+    "objectID": "publications/index.html#year-not-specified",
+    "href": "publications/index.html#year-not-specified",
+    "title": "Publications",
+    "section": "Year not specified",
+    "text": "Year not specified\n\nDuck Harbor. Characterizing Salt Marsh Microbial Communities in Sediments of Varying Depth.\nJoseph H Vineis, Ashley N Bulseco, Zoe G Cardon, and Jennifer L Bowen. Genetics and Genomics Ecology."
+  },
+  {
+    "objectID": "posts/new-lab-member.html",
+    "href": "posts/new-lab-member.html",
+    "title": "Coastal MicroEco Lab",
+    "section": "",
+    "text": "Our newest masters student just started. They will be working on xxx."
+  },
+  {
+    "objectID": "people/index.html",
+    "href": "people/index.html",
+    "title": "People",
+    "section": "",
+    "text": "role\n\n\nPrincipal Investigator\n\n\n\n\n\ninterests\n\n\nCoastal microbial ecology,Biogeochemistry\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBioinformatician\n\n\n\n\n\ninterests\n\n\nMicrobial ecology,Microbial traits,Biogeochemistry,Mentorship in science,Bioinformatics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nMaster’s Student\n\n\n\n\n\ninterests\n\n\nMicrobial ecology,Coastal ecosystems,Biogeochemistry,Science communication\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/index.html#current-members",
+    "href": "people/index.html#current-members",
+    "title": "People",
+    "section": "",
+    "text": "role\n\n\nPrincipal Investigator\n\n\n\n\n\ninterests\n\n\nCoastal microbial ecology,Biogeochemistry\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nBioinformatician\n\n\n\n\n\ninterests\n\n\nMicrobial ecology,Microbial traits,Biogeochemistry,Mentorship in science,Bioinformatics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nrole\n\n\nMaster’s Student\n\n\n\n\n\ninterests\n\n\nMicrobial ecology,Coastal ecosystems,Biogeochemistry,Science communication\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/index.html#alumni",
+    "href": "people/index.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/Kroot_Camille.html#bio",
+    "href": "people/Kroot_Camille.html#bio",
+    "title": "Camille Kroot",
+    "section": "Bio",
+    "text": "Bio\nCamille is a master’s student at the University of New Hampshire. Her thesis project investigates microbial community composition and nitrogen cycling in restored New Hampshire salt marshes, particularly if there are noticeable shifts in community and ecosystem function when comparing restored marshes to degraded and healthy marshes. She has participated and led a variety of field work, incubations, and lab work to gain a deeper understanding of microbial communities in changing environments, and their implications. In the future, Camille hopes to pursue a career that combines research and collaboration with the public to connect people to science."
+  },
+  {
+    "objectID": "people/Kroot_Camille.html#interests",
+    "href": "people/Kroot_Camille.html#interests",
+    "title": "Camille Kroot",
+    "section": "Interests",
+    "text": "Interests\nMicrobial ecology, Coastal ecosystems, Biogeochemistry, Science communication"
+  },
+  {
+    "objectID": "people/Kroot_Camille.html#links",
+    "href": "people/Kroot_Camille.html#links",
+    "title": "Camille Kroot",
+    "section": "Links",
+    "text": "Links\nGoogle Scholar"
+  },
+  {
+    "objectID": "links_resources.html",
+    "href": "links_resources.html",
+    "title": "Links and Resources",
+    "section": "",
+    "text": "This page is currently empty, we hope to add more here soon!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Coastal MicroEco Lab",
+    "section": "",
+    "text": "GitHub\n  \n  \n    \n     Email\n  \n\n  \n  \n\n\nThanks for visiting this webpage, it’s still under construction, if you want to know more about the lab, please reach out to Ashley Bulseco directly.\nA longstanding objective in microbial ecology is to link spatial and temporal distributions of microorganisms to ecosystem function and global biogeochemical cycling. As a microbial and ecosystem ecologist, I apply a combination of controlled laboratory experiments and field-based studies that employ next-generation sequencing, bioinformatics, and biogeochemical rate measurements, ultimately aiming to connect biological mechanisms to ecosystem scale processes using a microbial lens. Primary research goals including understanding changes to microbial diversity, structure, and function of coastal ecosystems in response to human activities, and in turn, using microbiome-informed data as an indication of overall ecosystem health. My research program is designed for extensive intellectual contribution and involvement from both undergraduate and graduate students. If you are interested in joining the lab, please reach out!\nLearn about our research"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Coastal MicroEco Lab",
+    "section": "",
+    "text": "Thanks for visiting this webpage, it’s still under construction, if you want to know more about the lab, please reach out to Ashley Bulseco directly.\nA longstanding objective in microbial ecology is to link spatial and temporal distributions of microorganisms to ecosystem function and global biogeochemical cycling. As a microbial and ecosystem ecologist, I apply a combination of controlled laboratory experiments and field-based studies that employ next-generation sequencing, bioinformatics, and biogeochemical rate measurements, ultimately aiming to connect biological mechanisms to ecosystem scale processes using a microbial lens. Primary research goals including understanding changes to microbial diversity, structure, and function of coastal ecosystems in response to human activities, and in turn, using microbiome-informed data as an indication of overall ecosystem health. My research program is designed for extensive intellectual contribution and involvement from both undergraduate and graduate students. If you are interested in joining the lab, please reach out!\nLearn about our research"
+  },
+  {
+    "objectID": "index.html#news-and-announcements",
+    "href": "index.html#news-and-announcements",
+    "title": "Coastal MicroEco Lab",
+    "section": "News and Announcements",
+    "text": "News and Announcements\n\n\n\n\n\n\n\n\nWelcome to our newest lab member!\n\n\n\n\n\nSep 8, 2026\n\n\n\n\n\nNo matching items\n\nView all news"
+  },
+  {
+    "objectID": "lab_handbook.html",
+    "href": "lab_handbook.html",
+    "title": "Lab Handbook",
+    "section": "",
+    "text": "Current lab members: Looking for the live version of the handbook? Find it here\n\n\n\n\nOpen the handbook in a new tab"
+  },
+  {
+    "objectID": "people/Holland-Moritz_Hannah.html#bio",
+    "href": "people/Holland-Moritz_Hannah.html#bio",
+    "title": "Hannah Holland-Moritz",
+    "section": "Bio",
+    "text": "Bio"
+  },
+  {
+    "objectID": "people/Holland-Moritz_Hannah.html#interests",
+    "href": "people/Holland-Moritz_Hannah.html#interests",
+    "title": "Hannah Holland-Moritz",
+    "section": "Interests",
+    "text": "Interests\nMicrobial ecology, Microbial traits, Biogeochemistry, Mentorship in science, Bioinformatics"
+  },
+  {
+    "objectID": "people/Holland-Moritz_Hannah.html#links",
+    "href": "people/Holland-Moritz_Hannah.html#links",
+    "title": "Hannah Holland-Moritz",
+    "section": "Links",
+    "text": "Links\nGoogle Scholar · Website"
+  },
+  {
+    "objectID": "people/bulseco_a.html#bio",
+    "href": "people/bulseco_a.html#bio",
+    "title": "Ashley Bulseco",
+    "section": "Bio",
+    "text": "Bio\nAshley’s research focuses on understanding the microbial response to human-driven disturbances in wetland, estuarine, and marine ecosystems. She is particularly interested in whether shifts in the microbial community translate to changes in ecosystem function, especially in relation to carbon and nitrogen cycling. Ashley’s work often takes a multi-faceted approach to address these questions, applying a range of interdisciplinary techniques that combine field work, controlled laboratory experiments, biogeochemical measurements, sequencing, and bioinformatics. Prior to coming to UNH, she taught Environmental Science and Oceanography at the high school level and will continue to explore her passion for innovative and inclusive pedagogical practices in STEM."
+  },
+  {
+    "objectID": "people/bulseco_a.html#interests",
+    "href": "people/bulseco_a.html#interests",
+    "title": "Ashley Bulseco",
+    "section": "Interests",
+    "text": "Interests\nCoastal microbial ecology, Biogeochemistry"
+  },
+  {
+    "objectID": "people/bulseco_a.html#links",
+    "href": "people/bulseco_a.html#links",
+    "title": "Ashley Bulseco",
+    "section": "Links",
+    "text": "Links\nGoogle Scholar · GitHub · ORCID"
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Posts and Blogs",
+    "section": "",
+    "text": "Welcome to our newest lab member!\n\n\n\n\n\nSep 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to the Coastal MicroEco Lab\n\n\nWe have a new website!\n\n\n\n\n\nSep 8, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/new_website.html",
+    "href": "posts/new_website.html",
+    "title": "Welcome to the Coastal MicroEco Lab",
+    "section": "",
+    "text": "We’ve just launched our new website!"
+  },
+  {
+    "objectID": "research/coastal-microbiomes.html",
+    "href": "research/coastal-microbiomes.html",
+    "title": "Coastal Microbial Ecology",
+    "section": "",
+    "text": "Text describing the project goes here."
+  },
+  {
+    "objectID": "research/coastal-microbiomes.html#overview",
+    "href": "research/coastal-microbiomes.html#overview",
+    "title": "Coastal Microbial Ecology",
+    "section": "",
+    "text": "Text describing the project goes here."
+  },
+  {
+    "objectID": "research/coastal-microbiomes.html#questions",
+    "href": "research/coastal-microbiomes.html#questions",
+    "title": "Coastal Microbial Ecology",
+    "section": "Questions",
+    "text": "Questions\nWe are interested in…"
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Introduction to Biology\n\n\nA survey course for undergraduates.\n\n\n\n\n\nNo matching items"
+  }
+]

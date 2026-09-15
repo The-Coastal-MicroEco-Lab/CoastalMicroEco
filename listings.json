@@ -1,0 +1,35 @@
+[
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/coastal-microbiomes.html"
+    ]
+  },
+  {
+    "listing": "/people/index.html",
+    "items": [
+      "/people/bulseco_a.html",
+      "/people/Holland-Moritz_Hannah.html",
+      "/people/Kroot_Camille.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/new-lab-member.html"
+    ]
+  },
+  {
+    "listing": "/posts/index.html",
+    "items": [
+      "/posts/new-lab-member.html",
+      "/posts/new_website.html"
+    ]
+  },
+  {
+    "listing": "/teaching/index.html",
+    "items": [
+      "/teaching/intro_biology.html"
+    ]
+  }
+]
