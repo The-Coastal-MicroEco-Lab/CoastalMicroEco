@@ -36,7 +36,7 @@ website:
       - icon: github
         href: https://github.com/coastal-microeco-lab/coastal-microeco-lab.github.io
   page-footer:
-    center: "Copyright &copy; 2026, Coastal MicroEco Lab; Design inspired by (Nick Lyon)[https://njlyon0.github.io/]"
+    center: "Copyright &copy; 2026, Coastal MicroEco Lab; Design inspired by [Nick Lyon](https://njlyon0.github.io/)"
     background: secondary
 
 format:

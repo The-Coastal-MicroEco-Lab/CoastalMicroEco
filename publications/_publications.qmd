@@ -6,6 +6,10 @@
 
 ## 2026
 
+1. Olivia Ahern, <strong class="lab-member">Ashley Bulseco</strong>, Amy Smith, JL Weissman, Joseph J Vallino, and Julie A Huber. (2026). **Aquatic bacterial metabolic rates from RNA quantitative stable isotope probing (RNA-qSIP) depend on experimental design**. *bioRxiv*, 2026--07.
+
+1. Astrid Zapata De Jesus, Alexis Ruiz Agosto, Adriana N Arce Soto, <strong class="lab-member">Ashley Bulseco</strong>, and Kai Ziervogel. (2026). **Coastal Sedimented Microplastics are Hotspots for Microbial Elemental Cycling**. In *American Geophysical Union, Ocean Sciences Meeting*, pp. HC42B--04.
+
 1. <strong class="lab-member">Ashley N. Bulseco</strong>, Wenzhuo Yang, Julie A. Huber, and Joseph J. Vallino. (2026). **Growth characteristics of natural microbial populations are skewed toward bacteria with low specific growth rates**. *Microbiology Spectrum*, **14**(9), e02193-26. [DOI](https://doi.org/10.1128/spectrum.02193-26) [HTML](https://journals.asm.org/doi/abs/10.1128/spectrum.02193-26)
    
    <details class="pub-abstract">
@@ -14,3 +18,101 @@
    ABSTRACT Microbes are often functionally characterized by traits that specify their optimum environmental conditions for growth, such as temperature or pH, as well as upper and lower bounds where growth is possible. While any given microbe will have a narrow environmental window where growth can occur, a diverse community can span a much larger range of conditions where growth is possible by at least some members of the community. One important trait of microbes is maximum specific growth rate, as this trait determines if a microbe can persist in environments with short residence times. In this study, we conducted a chemostat experiment with natural microbial communities and manipulated dilution rate to test how it would act as a selective force controlling community dynamics and microbial diversity. Using both the experimental chemostats, as well as trait-based modeling, we examined how the composition of a microbial community collected from a coastal meromictic pond changed as dilution rate increased from 0.1 to 10 day−1. We compared experimental results from 16S rRNA gene amplicon sequences to the output from two different simulations of the trait-based model, one in which maximum specific growth rate was initially evenly distributed across the community, and another where maximum specific growth rate traits were pulled from a beta probability distribution that was skewed toward low specific growth rates. Experimental results matched the simulation where the initial natural population was dominated by slow-growing microbes, highlighting the importance of initial trait distributions in modeling community response to environmental changes.IMPORTANCE All living organisms are constrained by environmental boundaries that govern where growth is possible, such as minimum and maximum temperatures or pH. An organism’s maximum specific growth rate places a lower bound on the residence or turnover time where an organism can persist without being removed from the system. While there are laboratory constraints on the maximum specific growth rate of culturable microorganisms, such as Escherichia or Vibrio species, information is lacking on how the maximum specific growth rate trait is distributed in natural microbial communities. This information is critical for understanding how a community will respond to changes in residence time or other environmental perturbations. Using chemostats and trait-based modeling, this study assessed how maximum specific growth rate is distributed in a natural community collected from a coastal, salinity-stratified pond.
    
    </details>
+
+1. Gregg E Moore, Jennifer L Gibson, David M Burdick, Alondra Ortiz-Franco, and <strong class="lab-member">Ashley N Bulseco</strong>. (2026). **Recovery of a New England salt marsh six years after a natural sediment deposition event**. *PloS one*, **21**(9), e0357442.
+
+1. Sophie Comer-Warner, Wil Wolheim, and <strong class="lab-member">Ashley Bulseco</strong>. (2026). **Unravelling drivers of stream microbial-biogeochemical cycling along a land-use gradient: Effects of organic matter quality and chemodiversity on greenhouse gas fluxes**. Copernicus Meetings.
+
+## 2025
+
+1. Sophie Comer-Warner, Wilfred Wollheim, and <strong class="lab-member">Ashley Bulseco</strong>. (2025). **Drivers of stream-microbial cycling and greenhouse gas dynamics across a land-use gradient**. Copernicus Meetings.
+
+1. Jennifer L Bowen, Saad Abd Ar Rafie, <strong class="lab-member">Ashley Bulseco</strong>, and Joseph H Vineis. (2025). **How do organic matter properties shape microbial traits in deep salt marsh sediments?**. In *AGU Fall Meeting Abstracts*, pp. B51D--02.
+
+1. Joseph H Vineis, <strong class="lab-member">Ashley N Bulseco</strong>, Zoe G Cardon, and Jennifer L Bowen. (2025). **Microbial consortia in salt marsh sediments are sequentially buried over millennia and genomic complementarity analysis indicates an important role in complex carbon decomposition**. *bioRxiv*, 2025--07.
+
+## 2024
+
+1. Joseph John Vallino, <strong class="lab-member">Ashley N Bulseco</strong>, Wenzhou Yang, Julie A Huber, and Olivia Ahern. (2024). **Characterizing Bacterial Specific Growth Rates Using Experimental Microcosms and Trait-Based Modeling**. In *American Geophysical Union, Ocean Sciences Meeting*, pp. OB11A--02.
+
+1. <strong class="lab-member">Ashley N Bulseco</strong>, Wenzhou Yang, Julie A Huber, and Joseph J Vallino. (2024). **Growth characteristics of natural microbial populations are skewed towards bacteria with low specific growth rates**. *bioRxiv*, 2024--04.
+
+1. <strong class="lab-member">Ashley N Bulseco</strong>, Anna E Murphy, Anne E Giblin, Jane Tucker, Jonathan Sanderman, and Jennifer L Bowen. (2024). **Marsh sediments chronically exposed to nitrogen enrichment contain degraded organic matter that is less vulnerable to decomposition via nitrate reduction**. *Science of the Total Environment*, **915**, 169681.
+
+1. Astrid Joan Zapata De Jesus, Alexis Ruiz Agosto, Adriana N Arce Soto, <strong class="lab-member">Ashley Bulseco</strong>, and Kai Ziervogel. (2024). **Microbial Interactions with Microplastics in the Coastal Ocean: Insights on Community Structure and Function from Flowthrough Experiments**. In *AGU Fall Meeting Abstracts*, pp. H34G--08.
+
+1. Sophie Comer-Warner, Wilfred M Wollheim, and <strong class="lab-member">Ashley Bulseco</strong>. (2024). **Unraveling drivers of stream microbial-biogeochemical cycling along a land-use gradient: From localized processes to ecosystem-wide effects**. In *AGU Fall Meeting Abstracts*, pp. B43J--03.
+
+## 2023
+
+1. Joseph H Vineis, <strong class="lab-member">Ashley N Bulseco</strong>, and Jennifer L Bowen. (2023). **Microbial chemolithoautotrophs are abundant in salt marsh sediment following long-term experimental nitrate enrichment**. *FEMS Microbiology Letters*, **370**, fnad082.
+
+1. Carol Kim, Lorie W Staver, Xuan Chen, <strong class="lab-member">Ashley Bulseco</strong>, Jeffrey C Cornwell, and Sairah Y Malkin. (2023). **Microbial community succession along a chronosequence in constructed salt marsh soils**. *Microbial ecology*, **85**(3), 931--950.
+
+## 2022
+
+1. Rundong Jiang, Xiaotong Ding, Shannon Sung, <strong class="lab-member">Ashley Bulseco</strong>, and Charles Xie. (2022). **Data-driven science vlogging for connected learning anywhere**. *Connected Science Learning*, **4**(2), 12318661.
+
+1. Wei Yuan, Guangdi Liu, Xiaoxing Zhou, and <strong class="lab-member">Ashley Bulseco</strong>. (2022). **Linking hydrothermal activity with organic matter accumulation in the chang 7 black Shale of Yanchang Formation, Ordos Basin, China**. *Frontiers in Earth Science*, **10**, 786634.
+
+1. Sophie Comer-Warner, Sami Ullah, Camille Stagg, Tracy Quirk, Christopher Swarzenski, <strong class="lab-member">Ashley Bulseco</strong>, and Gail Chmura. (2022). **The response of greenhouse gas fluxes and nutrient filtration potential to increases in temperature and nutrient loading from salt marsh soils across a climatic gradient**. In *EGU General Assembly Conference Abstracts*, pp. EGU22--1119.
+
+## 2021
+
+1. Wei Yuan, Guangdi Liu, <strong class="lab-member">Ashley Bulseco</strong>, Liming Xu, and Xiaoxing Zhou. (2021). **Controls on U enrichment in organic-rich shales from the Triassic Yanchang Formation, Ordos Basin, Northern China**. *Journal of Asian Earth Sciences*, **212**, 104735.
+
+1. Sophie Comer-Warner, Sami Ullah, Camille Stagg, Tracy Quirk, Christopher Swarzenski, <strong class="lab-member">Ashley Bulseco</strong>, and Gail Chmura. (2021). **How will increases in temperature and nutrient loading impact greenhouse gas fluxes and nitrogen processing in salt marsh soils across a climatic gradient?**. In *AGU Fall Meeting Abstracts*, pp. B21C--06.
+
+1. Wei Yuan, Guangdi Liu, <strong class="lab-member">Ashley Bulseco</strong>, and XiaoXing Zhou. (2021). **Iron speciation in organic-rich shales from the Upper Triassic Yanchang Formation, Ordos Basin, Northern China: Implications for depositional environment**. *Journal of Asian Earth Sciences*, **220**, 104917.
+
+1. Sairah Malkin, Carol Kim, Staver Lorie, Jeffrey Cornwell, Xuan Chen, and <strong class="lab-member">Ashley Bulseco</strong>. (2021). **Microbial Community Succession Patterns Distinguish Soils on a Trajectory of Successful Salt Marsh Construction from Soils Suffering from Excess Inundation**. In *AGU Fall Meeting Abstracts*, pp. B12E--04.
+
+1. Joseph H Vineis, <strong class="lab-member">Ashley N Bulseco</strong>, and Jennifer L Bowen. (2021). **Microbial dark carbon fixation fueled by nitrate enrichment**. *bioRxiv*, 2021--08.
+
+## 2020
+
+1. Sarah M Allard, Matthew T Costa, <strong class="lab-member">Ashley N Bulseco</strong>, Véronique Helfer, Laetitia GE Wilkins, Christiane Hassenrück, Karsten Zengler, Martin Zimmer, Natalia Erazo, Jorge L Mazza Rodrigues, and others. (2020). **Introducing the mangrove microbiome initiative: identifying microbial research priorities and approaches to better understand, protect, and rehabilitate mangrove ecosystems**. *MSystems*, **5**(5), 10--1128.
+
+1. <strong class="lab-member">Ashley N Bulseco</strong>, Joseph H Vineis, Anna E Murphy, Amanda C Spivak, Anne E Giblin, Jane Tucker, and Jennifer L Bowen. (2020). **Metagenomics coupled with biogeochemical rates measurements provide evidence that nitrate addition stimulates respiration in salt marsh sediments**. *Limnology and Oceanography*, **65**, S321--S339.
+
+1. Christopher A Lynum, <strong class="lab-member">Ashley N Bulseco</strong>, Courtney M Dunphy, Sean M Osborne, Joseph H Vineis, and Jennifer L Bowen. (2020). **Microbial community response to a passive salt marsh restoration**. *Estuaries and Coasts*, **43**(6), 1439--1455.
+
+1. Jen Bowen, <strong class="lab-member">Ashley N Bulseco</strong>, Anna Elizabeth Murphy, and Joseph H Vineis. (2020). **Nitrogen controls on carbon accumulation in coastal system: Not all nitrogen is created equal**. In *American Geophysical Union, Ocean Sciences Meeting*, pp. CP52B--02.
+
+1. Jennifer L Bowen, Anne E Giblin, Anna E Murphy, <strong class="lab-member">Ashley N Bulseco</strong>, Linda A Deegan, David S Johnson, James A Nelson, Thomas J Mozdzer, and Hillary L Sullivan. (2020). **Not all nitrogen is created equal: differential effects of nitrate and ammonium enrichment in coastal wetlands**. *BioScience*, **70**(12), 1108--1119.
+
+1. <strong class="lab-member">Ashley N Bulseco</strong>. (2020). **NSF Postdoctoral Fellowship in Biology FY 2019: Characterizing the Microbial Consortia Capable of Degrading Complex Carbon in Salt Marsh Sediments using RNA-SIP**. *NSF Award Number 1907285. Directorate for Biological Sciences*, **19**(1907285), 7285.
+
+1. Anna E Murphy, <strong class="lab-member">Ashley N Bulseco</strong>, Ross Ackerman, Joseph H Vineis, and Jennifer L Bowen. (2020). **Sulphide addition favours respiratory ammonification (DNRA) over complete denitrification and alters the active microbial community in salt marsh sediments**. *Environmental Microbiology*, **22**(6), 2124--2139.
+
+1. Donald C Barber, Camila Silva, Thomas Mozdzer, and <strong class="lab-member">Ashley Bulseco</strong>. (2020). **Variable Carbon Content in Shallow Salt Marsh Soils, Plum Island Estuary, Massachusetts**. In *Geological Society of America Abstracts*, pp. 345359.
+
+## 2019
+
+1. Ashley Bulseco-McKim, Anne Giblin, and Jennifer Bowen. (2019). **Biogeochemical rate data and sediment properties of samples used for a controlled flow through experiment testing the effect of nitrate on organic matter decomposition, PIE LTER, Plum Island Sound estuary, Massachusetts**. Environmental Data Initiative.
+
+1. <strong class="lab-member">Ashley N Bulseco</strong>, Anne E Giblin, Jane Tucker, Anna E Murphy, Jonathan Sanderman, Kenly Hiller-Bittrolff, and Jennifer L Bowen. (2019). **Nitrate addition stimulates microbial decomposition of organic matter in salt marsh sediments**. *Global Change Biology*, **25**(10), 3224--3241.
+
+1. Patrick J Kearns, Ashley N Bulseco-McKim, Helen Hoyt, John H Angell, and Jennifer L Bowen. (2019). **Nutrient Enrichment Alters Salt Marsh Fungal Communities and Promotes Putative Fungal Denitrifiers: Kearns PJ et al**. *Microbial Ecology*, **77**(2), 358--369.
+
+## 2018
+
+1. Ashley N Bulseco-McKim, Jonathan Sanderman, and Jennifer L Bowen. (2018). **Combining High Resolution Organic Matter Characterization and Analysis of Microbial Community Structure to Assess the Effects of Nutrient Loading on Salt Marsh Carbon Sequestration**. In *American Geophysical Union, Ocean Sciences Meeting*, pp. BN24D--1125.
+
+1. Kenly Hiller-Bittrolff, Kenneth Foreman, Ashley N Bulseco-McKim, Janina Benoit, and Jennifer L Bowen. (2018). **Effects of mercury addition on microbial community composition and nitrate removal inside permeable reactive barriers**. *Environmental Pollution*, **242**, 797--806.
+
+1. Ashley Bulseco-McKim. (2018). **Nitrate as an electron acceptor in microbial decomposition of salt marsh sediment organic matter and implications for carbon storage**. Northeastern University.
+
+1. Anna Elizabeth Murphy, Ashley Bulseco-McKim, Ross Ackerman, and Jennifer L Bowen. (2018). **The effect of sulfide on microbial community structure and the competition between nitrate respiration pathways**. In *American Geophysical Union, Ocean Sciences Meeting*, pp. BN33B--08.
+
+1. Ashley N Bulseco-McKim, Joseph H Vineis, Anna E Murphy, Anne E Giblin, Jonathan Sanderman, Amanda Spivak, and Jennifer L Bowen. (2018). **The Role of Nitrate as an Electron Acceptor in Salt Marsh Organic Matter Decomposition**. In *Twenty-eighth Annual Goldschmidt Conference*, pp. 306.
+
+## 2014
+
+1. Tam Bang Vu, Eirc Iksoon Im, and Ashley Bulseco-McKim. (2014). **What Kind of Education is good For US Productivity? Community Colleges versus Universities**. *Journal of Empirical Economics*, **2**(4), 204--215.
+
+## Year not specified
+
+1. Duck Harbor. **Characterizing Salt Marsh Microbial Communities in Sediments of Varying Depth**.
+
+1. Joseph H Vineis, <strong class="lab-member">Ashley N Bulseco</strong>, Zoe G Cardon, and Jennifer L Bowen. **Genetics and Genomics Ecology**.
