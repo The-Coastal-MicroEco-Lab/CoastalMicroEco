@@ -6,7 +6,7 @@ about:
   image-width: 10cm
   image-shape: round
   links:
-    - href: https://github.com/coastal-microeco-lab
+    - href: https://github.com/The-Coastal-MicroEco-Lab/CoastalMicroEco/issues
       text: GitHub
       icon: github
     - href: mailto:ashley.bulseco.unh.edu
