@@ -7,10 +7,9 @@ role-type: "staff"
 image: "../images/Holland-Moritz_headshot.png"
 
 bio: >
-   
-Hannah Holland-Moritz is a consulting bioinformatics specialist in the Bulseco group and also maintains a research program at Syracuse University where she is a Research Assistant Professor. 
-
-Her research focuses on integrating microbial traits and eco-evolutionary dynamics into predictive models at the community, landscape, and global scales. By combining microbial community data, molecular tools, and quantitative modeling, she examines how microbial traits and interactions mediate carbon and nutrient cycling in terrestrial and synthetic ecosystems. Her research addresses a wide-range of challenges from predicting which bacteria in fermented foods produce flavor-enhancing metabolites to identifying the microorganisms most likely to contribute to climate change in wetlands and polar regions. In addition to her research, Holland-Moritz is an active and enthusiastic supporter of the science of team science and enjoys training and mentoring students in interdisciplinary leadership, informatics, and data science skills.
+  Hannah Holland-Moritz is a consulting bioinformatics specialist in the Bulseco group and also maintains a research program at Syracuse University where she is a Research Assistant Professor. 
+  
+  Her research focuses on integrating microbial traits and eco-evolutionary dynamics into predictive models at the community, landscape, and global scales. By combining microbial community data, molecular tools, and quantitative modeling, she examines how microbial traits and interactions mediate carbon and nutrient cycling in terrestrial and synthetic ecosystems. Her research addresses a wide-range of challenges from predicting which bacteria in fermented foods produce flavor-enhancing metabolites to identifying the microorganisms most likely to contribute to climate change in wetlands and polar regions. In addition to her research, Holland-Moritz is an active and enthusiastic supporter of the science of team science and enjoys training and mentoring students in interdisciplinary leadership, informatics, and data science skills.
 
 interests:
   - Microbial ecology
