@@ -3,19 +3,18 @@ title: "Erin Mansfield"
 
 status: "current" # alternative = "alumni"
 
-role: "Role in Lab"
+role: "Master's Student"
 role-type: "graduate"
 
 current-position: "" # if alumni, fill with current position.
-image: "images/profiles/Mansfield_headshot.JPG"
+image: "../images/profiles/Mansfield_Headshot.JPG"
 
 bio: >
   Erin is a M.S. student in the lab whose research focuses on characterizing oyster microbiomes in Great Bay, NH. She is studying how changes in farming practices, time of year, and other environmental shifts may impact microbiomes, with a goal of identifying microbial communities that may be associated with higher chances of oyster survival. During her graduate studies and in her future career, she hopes to connect with local communities and stakeholders for collaboration and to share her research.
-  Education: 
-
-  BS, Environmental Sciences, North Carolina State University, Minor in Soil Science 
-
-  AS, Durham Technical Community College
+  
+education:
+  - "BS, Environmental Sciences, North Carolina State University, Minor in Soil Science"   
+  - "AS, Durham Technical Community College"
 
 interests:
   - Coastal ecosystems 
@@ -32,11 +31,16 @@ publication-names:
 order: 20
 ---
 {{< profile-photo >}}
+
 ### {{< meta role >}}
 
 ## Bio
 
 {{< meta bio >}}
+
+## Education
+
+{{< profile-education >}}
 
 ## Interests
 

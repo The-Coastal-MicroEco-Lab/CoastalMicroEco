@@ -1,0 +1,41 @@
+---
+title: "Mitchell Norris"
+
+status: "current" # alternative = "alumni"
+
+role: "Research Assistant"
+role-type: "undergraduate"
+
+current-position: "" # if alumni, fill with current position.
+image: "../images/profiles/Norris_Headshot.jpg"
+
+bio: >
+
+interests:
+
+links:
+
+publication-names:
+  - "Last, First"
+
+order: 20
+---
+{{< profile-photo >}}
+
+### {{< meta role >}}
+
+## Bio
+
+{{< meta bio >}}
+
+## Education
+
+{{< profile-education >}}
+
+## Interests
+
+{{< profile-interests >}}
+
+## Links
+
+{{< profile-links >}}

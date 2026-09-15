@@ -66,6 +66,36 @@ return {
   
     return pandoc.Inlines(output)
   end,
+  
+    ["profile-education"] = function(args, kwargs, meta)
+    
+      local education = meta.education
+    
+      if education == nil then
+        return pandoc.Null()
+      end
+    
+      local items = {}
+    
+      for _, degree in ipairs(education) do
+        local value = pandoc.utils.stringify(degree)
+    
+        table.insert(
+          items,
+          {
+            pandoc.Plain(
+              pandoc.read(value, "markdown").blocks[1].content
+            )
+          }
+        )
+      end
+    
+      if #items == 0 then
+        return pandoc.Null()
+      end
+    
+      return pandoc.BulletList(items)
+    end,
 
   ["profile-links"] = function(args, kwargs, meta)
 

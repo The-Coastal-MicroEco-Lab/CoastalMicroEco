@@ -35,11 +35,16 @@ publication-names:
 order: 20
 ---
 {{< profile-photo >}}
+
 ### {{< meta role >}}
 
 ## Bio
 
 {{< meta bio >}}
+
+## Education
+
+{{< profile-education >}}
 
 ## Interests
 

@@ -1,0 +1,60 @@
+---
+title: "Full Name"
+
+status: "current" # alternative = "alumni"
+
+role: "Ph.D Student"
+role-type: "graduate"
+
+current-position: "" # if alumni, fill with current position.
+image: "../images/profiles/Gonsalves_Headshot.jpg"
+
+bio: >
+  Marley is a PhD student whose research focuses on phytoplankton and bacterial community networks in estuarine and saltmarsh systems. She is interested in understanding how phytoplankton community composition changes in concert with other microbes, and how those changes relate to carbon cycling and other ecosystem functions. Marley is co-advised by Dr. Elizabeth Harvey, and her work focuses on combining molecular techniques and bioinformatics with traditional and imaging flow cytometry.
+  Science communication Instagram: @mgg_plankton
+  
+education:
+  - "Ph.D University of New Hampshire - Marine Biology (in progress)" 
+  - "Graduate Certificate University of New Hampshire - Coastal Policy" 
+  - "M.S. University of New Hampshire - Marine Biology"
+  - "B.S. University of New Hampshire - Marine, Estuarine, and Freshwater Biology and Sustainability" 
+
+
+interests:
+  - phytoplankton
+  - plankton ecology
+  - oceanography
+  - biological oceanography
+  - network analysis
+  - coastal microbial ecology
+  - food webs
+  - biogeochemistry 
+
+links:
+  - text: "Instagram"
+  - href: "https://www.instagram.com/mgg_plankton"
+
+publication-names:
+  - "Last, First"
+
+order: 20
+---
+{{< profile-photo >}}
+
+### {{< meta role >}}
+
+## Bio
+
+{{< meta bio >}}
+
+## Education
+
+{{< profile-education >}}
+
+## Interests
+
+{{< profile-interests >}}
+
+## Links
+
+{{< profile-links >}}
