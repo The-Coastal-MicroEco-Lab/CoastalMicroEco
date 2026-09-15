@@ -4,7 +4,7 @@ status: "current"
 role: "Consulting Bioinformatics Specialist"
 role-type: "staff"
 
-image: "../images/Holland-Moritz_headshot.png"
+image: "../images/Holland-Moritz_headshot.jpg"
 
 bio: >
   Hannah Holland-Moritz is a consulting bioinformatics specialist in the Bulseco group and also maintains a research program at Syracuse University where she is a Research Assistant Professor. 
